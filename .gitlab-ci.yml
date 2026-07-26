@@ -1,0 +1,10 @@
+# Cloudflare Pages Deployment Configuration
+# Free tier: unlimited bandwidth, unlimited requests
+# Deploy: connect your GitHub repo to Cloudflare Pages
+
+pages:
+  stage: deploy
+  script:
+    - echo "Build complete - deploy to Cloudflare Pages via GitHub integration"
+  only:
+    - main
