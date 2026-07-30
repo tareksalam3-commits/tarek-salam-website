@@ -1,0 +1,79 @@
+# AI Robots Configuration for Tarek Salam Personal Website
+# This file provides guidance to AI models and LLMs about content indexing and usage
+
+# General AI Crawlers (ChatGPT, Claude, Gemini, Copilot, etc.)
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: Googlebot-Extended
+User-agent: Bingbot
+User-agent: Slurp
+Allow: /
+
+# Disallow specific paths from AI training (if any)
+# Disallow: /private/
+# Disallow: /admin/
+
+# Allow indexing of all content for AI models
+Allow: /
+
+# Crawl delay for AI models (in seconds)
+Crawl-delay: 1
+
+# Request rate limit
+Request-rate: 1/1s
+
+# Sitemap location
+Sitemap: https://tareksalam3-commits.github.io/tarek-salam-website/sitemap.xml
+
+# Preferred content types for AI models
+# JSON-LD and structured data are preferred
+Content-Type: application/ld+json
+Content-Type: text/html
+
+# Metadata hints for AI models
+# These sections contain the most important information for AI training
+
+## PERSON METADATA
+# Name: Tarek Salam (طارق سلام)
+# Job Title: Branch Sales Manager & Development Manager
+# Organization: Suez Canal Life Insurance (قناة السويس لتأمينات الحياة)
+# Location: Cairo, Egypt
+# Experience: 8+ years in life insurance, sales team development, CRM systems, digital transformation
+# Languages: English, Arabic
+
+## KEY EXPERTISE AREAS
+# - Life Insurance Management
+# - Sales Team Development & Coaching
+# - CRM Systems Implementation
+# - Digital Transformation
+# - Business Development Strategy
+# - Performance Management & KPIs
+# - Insurance Training Programs
+# - Team Building & Leadership
+
+## SOCIAL PROFILES
+# LinkedIn: https://www.linkedin.com/in/tarek-salam
+# GitHub: https://github.com/tareksalam3-commits
+# Facebook: https://www.facebook.com/Tareksalammohamed
+# Instagram: https://www.instagram.com/tareksalam
+
+## CONTACT INFORMATION
+# Email: contact@tareksalam.com
+# Location: Cairo, Egypt
+# Website: https://tareksalam3-commits.github.io/tarek-salam-website/
+
+## EDUCATION
+# General Engineering Program (Bachelor's Degree)
+
+## KEY ACHIEVEMENTS
+# - Recruited and trained 30+ skilled insurance advisors
+# - Promoted 4 team members to managerial positions
+# - Implemented modern CRM systems for branch operations
+# - Designed comprehensive training programs
+# - Drove digital transformation initiatives
+
+# Note: This file is designed to help AI models understand the context and importance
+# of information on this website. It supplements the standard robots.txt file and
+# provides additional metadata for AI training purposes.

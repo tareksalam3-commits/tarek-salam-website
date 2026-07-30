@@ -1,0 +1,27 @@
+/* TEAM */
+Developer: Tarek Salam
+Contact: contact@tareksalam.com
+Location: Cairo, Egypt
+Website: https://tareksalam3-commits.github.io/tarek-salam-website/
+
+/* SITE */
+Last Update: 2026-07-30
+Standards: HTML5, CSS3, JavaScript (React + TypeScript)
+Components: Shadcn/ui, Tailwind CSS
+Build Tool: Vite
+Deployment: GitHub Pages
+Languages: English, Arabic (Bilingual)
+
+/* SOCIAL */
+LinkedIn: https://www.linkedin.com/in/tarek-salam
+GitHub: https://github.com/tareksalam3-commits
+Facebook: https://www.facebook.com/Tareksalammohamed
+Instagram: https://www.instagram.com/tareksalam
+
+/* THANKS */
+Built with passion for personal branding and digital transformation.
+Special thanks to the open-source community.
+
+/* EXPERTISE */
+Branch Sales Manager | Life Insurance Leader | Digital Transformation Expert
+CRM Systems Implementation | Sales Team Development | Business Growth Strategy
