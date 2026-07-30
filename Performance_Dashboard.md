@@ -45,7 +45,7 @@
 - ادخل إلى [Google Search Console](https://search.google.com/search-console).
 - سجل دخولك بحساب Google.
 - اختر "Add property"، ثم اختر "URL prefix" (الأسهل والأدق).
-- أدخل رابط موقعك الشخصي (مثال: `https://tarek-salam.github.io/`).
+- أدخل رابط موقعك الشخصي: `https://tareksalam3-commits.github.io/tarek-salam-website/`.
 
 **الخطوة 2: التحقق من الملكية (Verify Ownership)**
 - Google ستقدم لك خيارات للتحقق. الأسهل هو استخدام ملف HTML:
@@ -56,7 +56,7 @@
 
 **الخطوة 3: إرسال خريطة الموقع (Submit Sitemap)**
 - بعد التحقق، ادخل إلى "Sitemaps".
-- أدخل رابط خريطة الموقع: `[رابط موقعك]/sitemap.xml`.
+- أدخل رابط خريطة الموقع: `https://tareksalam3-commits.github.io/tarek-salam-website/sitemap.xml`.
 - اضغط على "Submit". هذا يخبر Google بكل صفحات موقعك ليتم فهرستها فوراً.
 
 **الخطوة 4: طلب الفهرسة (Request Indexing)**
