@@ -27,9 +27,9 @@
 
 ### 4. توحيد الهوية الرقمية
 تم دمج حساباتك التالية في بنية الموقع والبيانات المهيكلة:
-- **LinkedIn:** [tarek-salam](https://www.linkedin.com/in/tarek-salam)
-- **Facebook:** [Tareksalammohamed](https://www.facebook.com/Tareksalammohamed)
-- **Instagram:** [tareksalam](https://www.instagram.com/tareksalam)
+- **LinkedIn:** [tareksalammohamed](https://www.linkedin.com/in/tareksalammohamed)
+- **Facebook:** [tareksalammohamed](https://www.facebook.com/tareksalammohamed)
+- **Instagram:** [tareksalammohamed](https://www.instagram.com/tareksalammohamed)
 - **GitHub:** [tareksalam3-commits](https://github.com/tareksalam3-commits)
 
 ### 5. أدوات المتابعة والتحليل (مجانية)
