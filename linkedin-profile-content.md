@@ -117,7 +117,7 @@ Key Achievements:
 ## 5. Website Link (رابط الموقع)
 
 أضف رابط موقعك الشخصي في:
-- **Contact Info → Website:** `https://tareksalam3-commits.github.io/tarek-salam-website/`
+- **Contact Info → Website:** `https://tareksalammohamed.github.io/tarek-salam-website/`
 - **Featured Section:** أضف رابط الموقع كـ Featured Link
 - **Call-to-Action Button:** اختر "Visit website" وضع رابط الموقع
 

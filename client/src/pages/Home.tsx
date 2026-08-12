@@ -5,7 +5,7 @@ import {
   Phone, ShieldCheck, Sparkles, Target, Users, X,
 } from "lucide-react";
 
-const siteUrl = "https://tareksalam3-commits.github.io/tarek-salam-website/";
+const siteUrl = "https://tareksalammohamed.github.io/tarek-salam-website/";
 const whatsappUrl = "https://wa.me/message/IGIGGRIP6ARPC1";
 
 const navItems = [

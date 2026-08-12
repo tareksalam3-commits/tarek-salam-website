@@ -7,7 +7,7 @@
 2. سجّل الدخول بحساب Google الخاص بك
 3. اضغط على "Add property" (إضافة خاصية)
 4. اختر "URL prefix" وأدخل رابط موقعك:
-   - `https://tareksalam3-commits.github.io/tarek-salam-website/`
+   - `https://tareksalammohamed.github.io/tarek-salam-website/`
    (بعد تفعيل GitHub Pages)
 
 ### الخطوة 1.2: التحقق من الملكية (Verify Ownership)
@@ -48,7 +48,7 @@
 2. سجّل الدخول بحساب Microsoft الخاص بك (أو أنشئ حساب جديد)
 3. اضغط على "Add site" (إضافة موقع)
 4. أدخل رابط موقعك:
-   - `https://tareksalam3-commits.github.io/tarek-salam-website/`
+   - `https://tareksalammohamed.github.io/tarek-salam-website/`
 
 ### الخطوة 2.2: التحقق من الملكية
 Bing يدعم نفس طرق Google:
@@ -111,17 +111,17 @@ Bing يدعم نفس طرق Google:
 ## الخطوة 5: تفعيل GitHub Pages
 
 ### الخطوة 5.1: تفعيل النشر
-1. ادخل إلى: https://github.com/tareksalam3-commits/tarek-salam-website/settings/pages
+1. ادخل إلى: https://github.com/tareksalammohamed/tarek-salam-website/settings/pages
 2. تحت "Build and deployment":
    - Source: اختر "GitHub Actions"
-3. ادخل إلى: https://github.com/tareksalam3-commits/tarek-salam-website/actions
+3. ادخل إلى: https://github.com/tareksalammohamed/tarek-salam-website/actions
 4. سترى الـ workflow يعمل تلقائياً ويبني الموقع
 5. بعد اكتمال البناء، الموقع سيكون متاحاً على:
-   `https://tareksalam3-commits.github.io/tarek-salam-website/`
+   `https://tareksalammohamed.github.io/tarek-salam-website/`
 
 ### الخطوة 5.2: (اختياري) نطاق مخصص مجاني
 يمكنك استخدام نطاق مجاني من:
-- `tareksalam3-commits.github.io/tarek-salam-website` (الافتراضي)
+- `tareksalammohamed.github.io/tarek-salam-website` (الافتراضي)
 - أو شراء نطاق من GitHub (غير مجاني)
 
 ---
@@ -142,8 +142,8 @@ Bing يدعم نفس طرق Google:
 
 | الأداة | الرابط | الحالة |
 |--------|--------|--------|
-| GitHub Repository | https://github.com/tareksalam3-commits/tarek-salam-website | ✅ مرفوع |
-| GitHub Pages Settings | https://github.com/tareksalam3-commits/tarek-salam-website/settings/pages | ⬜ يجب تفعيل |
+| GitHub Repository | https://github.com/tareksalammohamed/tarek-salam-website | ✅ مرفوع |
+| GitHub Pages Settings | https://github.com/tareksalammohamed/tarek-salam-website/settings/pages | ⬜ يجب تفعيل |
 | Google Search Console | https://search.google.com/search-console | ⬜ يجب الإعداد |
 | Bing Webmaster Tools | https://www.bing.com/webmasters | ⬜ يجب الإعداد |
 | Google Analytics | https://analytics.google.com | ⬜ يجب الإعداد |

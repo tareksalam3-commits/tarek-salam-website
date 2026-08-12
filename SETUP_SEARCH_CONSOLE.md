@@ -18,7 +18,7 @@
 2. اختر **"URL prefix"** (الخيار الأول).
 3. أدخل رابط موقعك الكامل:
    ```
-   https://tareksalam3-commits.github.io/tarek-salam-website/
+   https://tareksalammohamed.github.io/tarek-salam-website/
    ```
 4. انقر على **"Continue"**.
 
@@ -43,7 +43,7 @@ Google ستقدم لك عدة خيارات للتحقق. اختر الطريقة
 1. انقر على **"Sitemaps"** في القائمة اليسرى.
 2. أدخل رابط Sitemap:
    ```
-   https://tareksalam3-commits.github.io/tarek-salam-website/sitemap.xml
+   https://tareksalammohamed.github.io/tarek-salam-website/sitemap.xml
    ```
 3. انقر على **"Submit"**.
 
@@ -51,7 +51,7 @@ Google ستقدم لك عدة خيارات للتحقق. اختر الطريقة
 1. انقر على **"URL Inspection"** في القائمة العلوية.
 2. أدخل رابط موقعك الرئيسي:
    ```
-   https://tareksalam3-commits.github.io/tarek-salam-website/
+   https://tareksalammohamed.github.io/tarek-salam-website/
    ```
 3. انقر على **"Request Indexing"** لطلب فهرسة فورية.
 
@@ -66,7 +66,7 @@ Google ستقدم لك عدة خيارات للتحقق. اختر الطريقة
 1. انقر على **"Add a site"**.
 2. أدخل رابط موقعك:
    ```
-   https://tareksalam3-commits.github.io/tarek-salam-website/
+   https://tareksalammohamed.github.io/tarek-salam-website/
    ```
 3. انقر على **"Add"**.
 
@@ -89,7 +89,7 @@ Google ستقدم لك عدة خيارات للتحقق. اختر الطريقة
 1. انقر على **"Sitemaps"** في القائمة اليسرى.
 2. أدخل رابط Sitemap:
    ```
-   https://tareksalam3-commits.github.io/tarek-salam-website/sitemap.xml
+   https://tareksalammohamed.github.io/tarek-salam-website/sitemap.xml
    ```
 3. انقر على **"Submit"**.
 

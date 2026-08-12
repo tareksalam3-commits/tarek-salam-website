@@ -80,7 +80,7 @@ export default function Footer({ lang }: FooterProps) {
               <a href="https://www.linkedin.com/in/tarek-salam" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-white/10 flex items-center justify-center hover:bg-gold/20 transition-colors" aria-label="LinkedIn">
                 <Linkedin size={18} />
               </a>
-              <a href="https://github.com/tareksalam3-commits" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-white/10 flex items-center justify-center hover:bg-gold/20 transition-colors" aria-label="GitHub">
+              <a href="https://github.com/tareksalammohamed" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-white/10 flex items-center justify-center hover:bg-gold/20 transition-colors" aria-label="GitHub">
                 <Github size={18} />
               </a>
             </div>

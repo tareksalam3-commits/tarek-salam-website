@@ -2,7 +2,7 @@
 Developer: Tarek Salam
 Contact: contact@tareksalam.com
 Location: Cairo, Egypt
-Website: https://tareksalam3-commits.github.io/tarek-salam-website/
+Website: https://tareksalammohamed.github.io/tarek-salam-website/
 
 /* SITE */
 Last Update: 2026-07-30
@@ -14,7 +14,7 @@ Languages: English, Arabic (Bilingual)
 
 /* SOCIAL */
 LinkedIn: https://www.linkedin.com/in/tarek-salam
-GitHub: https://github.com/tareksalam3-commits
+GitHub: https://github.com/tareksalammohamed
 Facebook: https://www.facebook.com/Tareksalammohamed
 Instagram: https://www.instagram.com/tareksalam
 

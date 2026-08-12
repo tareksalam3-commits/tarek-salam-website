@@ -9,7 +9,7 @@
 ### 1. الموقع الشخصي والاستضافة
 - **المنصة:** تم تطوير الموقع باستخدام **React + Tailwind CSS** لضمان سرعة فائقة وتوافق مع الجوال.
 - **الاستضافة:** تم نشر الموقع على **GitHub Pages** تحت الرابط:
-  [https://tareksalam3-commits.github.io/tarek-salam-website/](https://tareksalam3-commits.github.io/tarek-salam-website/)
+  [https://tareksalammohamed.github.io/tarek-salam-website/](https://tareksalammohamed.github.io/tarek-salam-website/)
 - **التكلفة:** 0 دولار (مجاني للأبد).
 
 ### 2. تحسين محركات البحث (SEO)
@@ -30,7 +30,7 @@
 - **LinkedIn:** [tareksalammohamed](https://www.linkedin.com/in/tareksalammohamed)
 - **Facebook:** [tareksalammohamed](https://www.facebook.com/tareksalammohamed)
 - **Instagram:** [tareksalammohamed](https://www.instagram.com/tareksalammohamed)
-- **GitHub:** [tareksalam3-commits](https://github.com/tareksalam3-commits)
+- **GitHub:** [tareksalammohamed](https://github.com/tareksalammohamed)
 
 ### 5. أدوات المتابعة والتحليل (مجانية)
 للمتابعة المستمرة، ننصح باستخدام الأدوات التالية (تم إعداد روابطها في الدليل):
