@@ -14,10 +14,10 @@ const navItems = [
 ];
 
 const stats = [
-  { value: "15+", label: "سنوات خبرة", icon: Sparkles },
+  { value: "10+", label: "سنوات خبرة", icon: Sparkles },
   { value: "2500+", label: "عميل سعيد", icon: Users },
-  { value: "1000+", label: "متدرب وقائد", icon: GraduationCap },
-  { value: "5000+", label: "تعاقد ناجح", icon: Handshake },
+  { value: "720", label: "متدرب وقائد", icon: GraduationCap },
+  { value: "3970", label: "تعاقد ناجح", icon: Handshake },
   { value: "20+", label: "مدينة ومحافظة", icon: Landmark },
 ];
 
