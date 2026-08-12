@@ -5,7 +5,7 @@ import {
   Phone, ShieldCheck, Sparkles, Target, Users, X,
 } from "lucide-react";
 
-const siteUrl = "https://tareksalammohamed.github.io/tarek-salam-website/";
+const siteUrl = "https://tareksalammohamed.github.io/me/";
 const whatsappUrl = "https://wa.me/message/IGIGGRIP6ARPC1";
 
 const navItems = [
@@ -67,7 +67,7 @@ export default function Home() {
       <main>
         <section id="home" className="hero-section"><div className="hero-backdrop" aria-hidden="true" /><div className="hero-glow hero-glow-one" aria-hidden="true" /><div className="hero-glow hero-glow-two" aria-hidden="true" /><div className="container hero-grid">
           <div className="hero-copy"><div className="eyebrow"><span /> خبرة · ثقة · نتائج <span /></div><h1>طارق سلام</h1><h2>خدمات مالية <b>–</b> تأمين <b>–</b> تدريب وتطوير</h2><p className="hero-lede">أساعد الأفراد والعائلات على بناء مستقبل مالي آمن، وأساعد المسوقين وصناع النجاح على تطوير أنفسهم وبناء فرق قوية.</p><div className="hero-cta-row"><a className="gold-button" href={whatsappUrl} target="_blank" rel="noreferrer"><MessageCircle size={20} /> تواصل واتساب <small>محادثة فورية</small></a><a className="outline-button" href={whatsappUrl}><Phone size={19} /> اتصل الآن</a></div><div className="hero-trust"><ShieldCheck size={18} /><span>استشارة أولية تساعدك على تحديد الخطوة المناسبة</span></div></div>
-          <div className="hero-portrait" aria-label="طارق سلام - خبير الخدمات المالية والتأمين"><div className="portrait-aura" /><div className="portrait-card"><div className="portrait-monogram">TS</div><span>مسار واضح</span><strong>مستقبل أكثر أماناً</strong></div><div className="portrait-photo-wrap"><img className="portrait-photo" src="/tarek-salam-website/assets/tarek-portrait.png" alt="طارق سلام، خبير الخدمات المالية والتأمين وتطوير فرق العمل" /></div><div className="portrait-caption"><span>طارق سلام</span><small>مدير مبيعات وتطوير فرق</small></div></div>
+          <div className="hero-portrait" aria-label="طارق سلام - خبير الخدمات المالية والتأمين"><div className="portrait-aura" /><div className="portrait-card"><div className="portrait-monogram">TS</div><span>مسار واضح</span><strong>مستقبل أكثر أماناً</strong></div><div className="portrait-photo-wrap"><img className="portrait-photo" src="/me/assets/tarek-portrait.png" alt="طارق سلام، خبير الخدمات المالية والتأمين وتطوير فرق العمل" /></div><div className="portrait-caption"><span>طارق سلام</span><small>مدير مبيعات وتطوير فرق</small></div></div>
         </div><div className="container stats-bar" aria-label="إحصاءات طارق سلام">{stats.map(({ value, label, icon: Icon }) => <div className="stat-item" key={label}><Icon size={27} /><div><strong>{value}</strong><span>{label}</span></div></div>)}</div></section>
 
         <section id="about" className="intro-section section-space"><div className="container intro-grid"><div className="section-heading"><span className="section-kicker">من أنا</span><h2>خبرة تُترجم إلى <em>خطوات عملية</em></h2></div><div className="intro-copy"><p>أنا <strong>طارق سلام</strong>، مدير مبيعات وخبير في الخدمات المالية والتأمين وتطوير فرق العمل. أؤمن أن القرار المالي الجيد يبدأ بفهم واضح، وخطة قابلة للتنفيذ، وشريك يضع أهدافك في المقدمة.</p><p>من خلال التدريب والاستشارات وحلول الحماية، أساعد الأفراد والعائلات والمسوقين على بناء نتائج مستدامة بثقة ووعي.</p><a className="text-link" href="#contact">تعرّف على قصتي <ArrowLeft size={17} /></a></div></div></section>

@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig(({ mode }) => {
-  const base = mode === "production" ? "/tarek-salam-website/" : "/";
+  const base = mode === "production" ? "/me/" : "/";
   return {
     base,
     plugins: [react(), tailwindcss()],

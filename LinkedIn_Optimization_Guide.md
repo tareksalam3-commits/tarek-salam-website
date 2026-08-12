@@ -82,7 +82,7 @@
 ### 6. الروابط والتكامل (Links & Integration)
 
 - **رابط الملف الشخصي (Custom URL):** تأكد من تخصيص رابط ملفك ليكون `linkedin.com/in/tarek-salam`.
-- **إضافة الموقع الشخصي:** أضف رابط موقعك الشخصي الجديد (مثال: `tareksalammohamed.github.io/tarek-salam-website` أو النطاق المخصص) في قسم "Website" تحت معلومات الاتصال.
+- **إضافة الموقع الشخصي:** أضف رابط موقعك الشخصي الجديد (مثال: `tareksalammohamed.github.io/me` أو النطاق المخصص) في قسم "Website" تحت معلومات الاتصال.
 - **الزر المخصص (Call-to-Action Button):** قم بتفعيل زر الملف الشخصي واختر "Visit website" وضع رابط موقعك الشخصي.
 
 ### 7. استراتيجية النشر (Content Strategy)

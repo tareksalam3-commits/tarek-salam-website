@@ -1,4 +1,4 @@
 Contact: mailto:contact@tareksalam.com
 Expires: 2027-07-30T00:00:00.000Z
 Preferred-Languages: en, ar
-Canonical: https://tareksalammohamed.github.io/tarek-salam-website/.well-known/security.txt
+Canonical: https://tareksalammohamed.github.io/me/.well-known/security.txt

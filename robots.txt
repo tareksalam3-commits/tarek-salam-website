@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://tareksalammohamed.github.io/tarek-salam-website/sitemap.xml
+Sitemap: https://tareksalammohamed.github.io/me/sitemap.xml
 
 # Allow AI models and LLMs to index content
 User-agent: GPTBot

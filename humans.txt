@@ -2,7 +2,7 @@
 Developer: Tarek Salam
 Contact: contact@tareksalam.com
 Location: Cairo, Egypt
-Website: https://tareksalammohamed.github.io/tarek-salam-website/
+Website: https://tareksalammohamed.github.io/me/
 
 /* SITE */
 Last Update: 2026-07-30

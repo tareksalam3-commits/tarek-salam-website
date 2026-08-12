@@ -18,7 +18,7 @@
 ### ✅ الموقع الشخصي
 - تم تطوير موقع شخصي احترافي باستخدام **React + Tailwind CSS**.
 - الموقع مستضاف على **GitHub Pages** (مجاني للأبد).
-- الرابط: [https://tareksalammohamed.github.io/tarek-salam-website/](https://tareksalammohamed.github.io/tarek-salam-website/)
+- الرابط: [https://tareksalammohamed.github.io/me/](https://tareksalammohamed.github.io/me/)
 
 ### ✅ تحسين محركات البحث (SEO)
 - إضافة Meta Tags محسّنة (Title, Description, Keywords).

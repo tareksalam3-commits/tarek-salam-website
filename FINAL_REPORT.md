@@ -9,7 +9,7 @@
 ### 1. الموقع الشخصي والاستضافة
 - **المنصة:** تم تطوير الموقع باستخدام **React + Tailwind CSS** لضمان سرعة فائقة وتوافق مع الجوال.
 - **الاستضافة:** تم نشر الموقع على **GitHub Pages** تحت الرابط:
-  [https://tareksalammohamed.github.io/tarek-salam-website/](https://tareksalammohamed.github.io/tarek-salam-website/)
+  [https://tareksalammohamed.github.io/me/](https://tareksalammohamed.github.io/me/)
 - **التكلفة:** 0 دولار (مجاني للأبد).
 
 ### 2. تحسين محركات البحث (SEO)
